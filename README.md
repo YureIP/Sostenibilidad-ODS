@@ -23,7 +23,7 @@ Se divide en tres categorías principales:
 ![ODS](https://github.com/user-attachments/assets/5aaef17a-913f-4ae9-b2fc-ab50f3a8e492)
 
 
-# Acciones Sostenibles en Informática.
+# Acciones sostenibles en informática.
 
 ## Cosas que podemos hacer.
 
