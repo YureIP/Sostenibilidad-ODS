@@ -20,7 +20,8 @@ Se divide en tres categorías principales:
 | 9   | Industria, innovación e infraestructura | La tecnología y la informática impulsan la innovación, desarrollo de software y creación de infraestructuras inteligentes. |
 | 12  | Producción y consumo responsables | La informática ayuda a optimizar procesos, reducir desperdicios y fomentar la eficiencia energética en empresas y servicios. |
 
-![ODS](ODS.jpg)
+![ODS](https://github.com/user-attachments/assets/5aaef17a-913f-4ae9-b2fc-ab50f3a8e492)
+
 
 # Acciones Sostenibles en Informática.
 
